@@ -4,9 +4,7 @@
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="24" height="24" /> Working with: 
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,js,react,arduino&perline=6)
 
-##
-https://github.com/user-attachments/assets/cff9bb6b-2b4a-4ba2-be17-65591e35442d
-
+![cat](https://github.com/user-attachments/assets/39f52e2c-b293-4b29-9908-56ac2ed15992)
 
 
 
