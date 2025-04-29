@@ -6,7 +6,7 @@
 namespace HauntingVictims
 {
 
-    public class СyberExpert
+    public class СyberLord
     {
 
         public string Name = "Haunting Errors^^";
